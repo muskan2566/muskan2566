@@ -7,10 +7,10 @@
 
 ### Here are some ideas to help you get started:
 
-- 🎓 I'am currently pursuing fourth year in computer application.\
--learn  
+- 🎓 I'am currently pursuing fourth year in computer application.
+- ✨ I love coding ,developing ,being part of tech community and meet new people.  
 - 🌱 I’m currently learning <strong>React JS</strong>
--  💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong>.
+-  💬 I'm always open and trilled to learn and work with other people.
 
 ### Tools I work upon : 🛠
 
