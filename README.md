@@ -3,7 +3,7 @@
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
 <a href="mailto:muskankushwah2566@gmail.com"><img src="https://img.shields.io/badge/muskankushwah2566@gmail.vom-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a  href="https://instagram.com/smile_3975?utm_medium=copy_link"><img src="https://img.shields.io/badge/@smile_3975-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/muskan-kushwah-a44143204/"><img src="https://img.shields.io/badge/Muskan20 Kushwah-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   
+<a  href="https://instagram.com/smile_3975?utm_medium=copy_link"><img src="https://img.shields.io/badge/@smile_3975-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/muskan-kushwah-a44143204/"><img src="https://img.shields.io/badge/Muskan Kushwah-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   
 
 ### Here are some ideas to help you get started:
 
